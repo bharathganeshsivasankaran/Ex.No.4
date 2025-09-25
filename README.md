@@ -155,6 +155,16 @@ List 20 applications of AI in manufacturing.
 
 <img width="1224" height="684" alt="image" src="https://github.com/user-attachments/assets/28c8c7be-4dc7-46b0-b053-200b2d5b3f62" />
 
+### Comparative Analysis
+
+| **Prompt Type**                     | **Description**                                                      | **Effectiveness** | **Flexibility** | **Clarity** | **Overall Rating** |
+| ----------------------------------- | -------------------------------------------------------------------- | ----------------- | --------------- | ----------- | ------------------ |
+| **Comparative Analysis Prompt**     | Asks the AI to compare two or more items, concepts, or methods.      | ⭐⭐⭐⭐              | ⭐⭐⭐⭐            | ⭐⭐⭐⭐        | ⭐⭐⭐⭐               |
+| **Experiential Perspective Prompt** | Requests insights or explanations based on experiences or scenarios. | ⭐⭐⭐⭐⭐             | ⭐⭐⭐⭐            | ⭐⭐⭐⭐⭐       | ⭐⭐⭐⭐⭐              |
+| **Everyday Functioning Prompt**     | Focuses on practical applications or daily-use scenarios.            | ⭐⭐⭐⭐              | ⭐⭐⭐⭐⭐           | ⭐⭐⭐⭐        | ⭐⭐⭐⭐               |
+| **Universal Prompt**                | General-purpose prompt, often broad or open-ended.                   | ⭐⭐⭐               | ⭐⭐⭐⭐⭐           | ⭐⭐⭐         | ⭐⭐⭐                |
+| **Structured/Refined Prompt**       | Well-defined, step-by-step, or highly detailed instructions.         | ⭐⭐⭐⭐⭐             | ⭐⭐⭐⭐            | ⭐⭐⭐⭐⭐       | ⭐⭐⭐⭐⭐              |
+| **Size-Limited Prompt**             | Short and concise, optimized for model token limits.                 | ⭐⭐⭐⭐              | ⭐⭐⭐             | ⭐⭐⭐⭐        | ⭐⭐⭐⭐               |
 
 
 # Result: 
